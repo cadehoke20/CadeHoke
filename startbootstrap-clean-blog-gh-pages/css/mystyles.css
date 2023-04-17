@@ -1,0 +1,103 @@
+ul{
+    font-size:18px;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+
+}
+
+ol{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: whitesmoke;
+    border: 5px solid black;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border:5px solid black;
+    width:60%;
+    
+}
+
+h1{
+    text-align: center;
+    color: black;
+
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    color: black;
+}
+nav{
+    background-color: whitesmoke;
+    padding:10px;
+    overflow:hidden;
+    margin:auto;
+    font-weight: bold;
+   
+}
+
+.youtube-video{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+li{
+    font-style: normal;
+}
+
+.underline{
+    text-decoration: underline;
+    color: grey;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+.header{
+    background-color:rgba(137, 218, 238, 0.763);
+    padding: 10px;
+
+}
+.mainbody{
+    background-color: whitesmoke;
+}
+.footer{
+    font-size: 20px;
+    height:90px;
+    color: black;
+}
+nav a{
+    float: left;
+    color:rgba(137, 218, 238, 0.763);
+    padding: 10px 12px;
+    font-size: 20px;
+}
+nav a:hover{
+    background-color: #ccc;
+}
+h5{
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+    color:rgba(137, 218, 238, 0.763);
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    color:rgba(137, 218, 238, 0.763);
+}
